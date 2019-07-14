@@ -1,5 +1,9 @@
 rebase example
+<<<<<<< HEAD
 local commit
 local commit again
+remote repo
+changes further
+
 
 
