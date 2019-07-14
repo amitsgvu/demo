@@ -1,3 +1,4 @@
 rebase example
+local commit
 
 
