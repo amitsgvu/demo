@@ -1,4 +1,1 @@
-rebase first
-second
-
-
+"Hello Git"
